@@ -1,4 +1,4 @@
 # AESIM
 Simple Arithmetic Expression Simulator.
 
-![](ss.gif)
+![](ss2.png)
